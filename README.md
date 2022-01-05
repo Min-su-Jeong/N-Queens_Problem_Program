@@ -54,3 +54,17 @@ N-Queens 문제를 풀기 위한 프로그램 개발 Repository입니다.
 |method|getCols()|모든 해의 정보를 저장한 변수(ans) 값을 반환하는 함수|
 |method|Possibility()|퀸을 놓을 수 있는 위치인지 확인하여 boolean 값을 반환하는 함수|
 |method|backTracking()|백트래킹 알고리즘(문제 해결에 사용되는) 함수|
+
+<br/><br/>
+  
+# 실행 흐름도
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74342121/148163070-93d282bc-380c-4a2b-a2de-bef2b8fb1f6e.png" width="1200" height="600">
+</p>
+  
+<br/><br/>
+  
+# 시스템 구성
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74342121/148163217-22aaaff2-1043-463e-9376-d106d4670abe.png" width="800" height="300">
+</p>  
